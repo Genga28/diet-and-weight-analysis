@@ -6,7 +6,7 @@ barplot(
   sharpesmodel,
   main="Outliers",
   xlab="Sharpe's Model",
-  names.arg = c(input$ï..Companies)
+  names.arg = c(input$Ã¯..Companies)
   
 )
 treynermodel<-(input$EXPECTED.RETURN-input$RISK.FREE.RATE)/input$BETA
