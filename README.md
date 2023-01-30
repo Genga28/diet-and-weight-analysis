@@ -1,6 +1,7 @@
 # diet-and-weight-analysis
 
-      Diet is an effective measure to loss weight by taking healthy food in regular intervals which in turn maintains the health of a body.
+      Diet is an effective measure to loss weight by taking healthy food in regular intervals 
+      which in turn maintains the health of a body.
       There are different Diet types that are followed to reduce weight 
 
 ## Objective
